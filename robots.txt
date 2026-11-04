@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://telegran1bot.github.io/tg-unlock/sitemap.xml
